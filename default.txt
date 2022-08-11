@@ -1,0 +1,8 @@
+hello, this is the test for pipeline-as-code with github app on openshift behind vpn.
+http://pipelines-as-code-controller.openshift-pipelines.svc.cluster.local:8080
+https://smee.io/yHv1dESyg7BJmm4i
+f423dfb8a2c388d139076f11e8aa6d9063123b01
+pipelines-as-code-secret
+220685
+OpenShift Pipelines Test PAC once on OCP4.11
+OpenShift Pipelines Test PAC twice on OCP4.10
